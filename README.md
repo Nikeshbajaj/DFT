@@ -8,11 +8,13 @@
 #### Step 3. then write X = DFT_nik(x)
 
 ### Explaination
-#### x= input sequence
-#### X= dft of sequence
+#### x = input sequence
+#### X = dft of sequence
 ### Example 
-#### x=[1 2 4  1 2 1 2 2 3 2 3];
-#### X = DFT_nik(x)                          Note that MATLAB is Case sensitive so x and X are different variables
+#### x = [1 2 4  1 2 1 2 2 3 2 3];
+#### X = DFT_nik(x)                          
+
+##### Note that MATLAB is Case sensitive so x and X are different variables
 
 
 ####===========================================
