@@ -1,5 +1,5 @@
 # Discrete Fourier Transform
-## MATLAB Code for DFT with using fft function
+## MATLAB Code for DFT without using fft function
 
 ## Important to note this that this is a function file not script, you need to pass parameters to execute this program.
 
